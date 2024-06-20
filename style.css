@@ -1,0 +1,31 @@
+body{
+/* background-color: black;
+ */
+background-image: url(download.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.bigbox{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+        /* border: 2px solid black; */
+gap: 10px ;
+}
+.weathershow{
+    justify-content: center;
+    gap: 5px             ;
+display: flex;
+flex-direction: row;
+    /* border: 2px solid black; */
+}
+.tempshow{
+    justify-content: center;
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+        /* border: 2px solid black; */
+
+
+}
